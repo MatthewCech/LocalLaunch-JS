@@ -1,0 +1,14 @@
+{
+  "name": "localstart",
+  "version": "1.0.0",
+  "description": "starts applications locally based on query string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
